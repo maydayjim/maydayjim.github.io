@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-20T16:56:19.932Z</updated>
+  <updated>2021-03-22T01:36:09.602Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test The Post Feature</title>
-    <link href="http://example.com/2021/03/20/testNewPost/"/>
-    <id>http://example.com/2021/03/20/testNewPost/</id>
-    <published>2021-03-20T14:36:01.000Z</published>
-    <updated>2021-03-20T16:56:19.932Z</updated>
+    <title>Test Post</title>
+    <link href="http://example.com/2021/03/22/testNewPost/"/>
+    <id>http://example.com/2021/03/22/testNewPost/</id>
+    <published>2021-03-22T14:36:01.000Z</published>
+    <updated>2021-03-22T01:36:09.602Z</updated>
     
     
       
@@ -36,6 +36,26 @@
     
     
     
+    <category term="tech" scheme="http://example.com/categories/tech/"/>
+    
+    
+    <category term="tech" scheme="http://example.com/tags/tech/"/>
+    
+    <category term="test" scheme="http://example.com/tags/test/"/>
+    
+    <category term="game" scheme="http://example.com/tags/game/"/>
+    
+    <category term="movie" scheme="http://example.com/tags/movie/"/>
+    
+    <category term="spring" scheme="http://example.com/tags/spring/"/>
+    
+    <category term="code" scheme="http://example.com/tags/code/"/>
+    
+    <category term="interview" scheme="http://example.com/tags/interview/"/>
+    
+    <category term="nba" scheme="http://example.com/tags/nba/"/>
+    
+    <category term="travel" scheme="http://example.com/tags/travel/"/>
     
   </entry>
   

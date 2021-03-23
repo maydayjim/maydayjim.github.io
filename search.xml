@@ -19,11 +19,25 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Test The Post Feature</title>
-    <url>/2021/03/20/testNewPost/</url>
+    <title>Test Post</title>
+    <url>/2021/03/22/testNewPost/</url>
     <content><![CDATA[<!--the brifly introduction for this article-->
 
 <p>just typing these text to test the post function to post new article</p>
 ]]></content>
+      <categories>
+        <category>tech</category>
+      </categories>
+      <tags>
+        <tag>tech</tag>
+        <tag>test</tag>
+        <tag>game</tag>
+        <tag>movie</tag>
+        <tag>spring</tag>
+        <tag>code</tag>
+        <tag>interview</tag>
+        <tag>nba</tag>
+        <tag>travel</tag>
+      </tags>
   </entry>
 </search>
